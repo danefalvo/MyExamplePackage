@@ -1,0 +1,13 @@
+C:\Users\Dane\Documents\MyExamplePackage\bin\Debug\netcoreapp3.1\MyExamplePackage.exe
+C:\Users\Dane\Documents\MyExamplePackage\bin\Debug\netcoreapp3.1\MyExamplePackage.deps.json
+C:\Users\Dane\Documents\MyExamplePackage\bin\Debug\netcoreapp3.1\MyExamplePackage.runtimeconfig.json
+C:\Users\Dane\Documents\MyExamplePackage\bin\Debug\netcoreapp3.1\MyExamplePackage.runtimeconfig.dev.json
+C:\Users\Dane\Documents\MyExamplePackage\bin\Debug\netcoreapp3.1\MyExamplePackage.dll
+C:\Users\Dane\Documents\MyExamplePackage\bin\Debug\netcoreapp3.1\MyExamplePackage.pdb
+C:\Users\Dane\Documents\MyExamplePackage\obj\Debug\netcoreapp3.1\MyExamplePackage.csprojAssemblyReference.cache
+C:\Users\Dane\Documents\MyExamplePackage\obj\Debug\netcoreapp3.1\MyExamplePackage.AssemblyInfoInputs.cache
+C:\Users\Dane\Documents\MyExamplePackage\obj\Debug\netcoreapp3.1\MyExamplePackage.AssemblyInfo.cs
+C:\Users\Dane\Documents\MyExamplePackage\obj\Debug\netcoreapp3.1\MyExamplePackage.csproj.CoreCompileInputs.cache
+C:\Users\Dane\Documents\MyExamplePackage\obj\Debug\netcoreapp3.1\MyExamplePackage.dll
+C:\Users\Dane\Documents\MyExamplePackage\obj\Debug\netcoreapp3.1\MyExamplePackage.pdb
+C:\Users\Dane\Documents\MyExamplePackage\obj\Debug\netcoreapp3.1\MyExamplePackage.genruntimeconfig.cache
